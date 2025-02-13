@@ -5,5 +5,5 @@ fun main(){
     nayifile()
 }
 fun nayifile(){
-    println("hello ji")
+    println("hello ji wporld pagal")
 }
